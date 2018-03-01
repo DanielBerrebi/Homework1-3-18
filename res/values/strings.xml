@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework1/3/18</string>
+    <string name="frame">Frame</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="upper_triangle">Upper Triangle</string>
+    <string name="lower_triangle">Lower triangle</string>
+    <string name="rowLength">enter the row length</string>
+</resources>
